@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^14.2.9"
+    "electron": "^22.3.25"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
